@@ -1,0 +1,11 @@
+barcode,product_name,brands,ingredients_text,additives_tags,nutrigrade,risk_level,carcinogenic_ingredients
+3017620422003,Nutella,Ferrero,"Sugar, palm oil, hazelnuts, cocoa, milk powder, lecithin, vanillin",en:e322,d,Low,E322 (Lecithin) - Generally safe
+5449000000996,Coca-Cola,Coca-Cola,"Carbonated water, sugar, caramel color, phosphoric acid, natural flavors, caffeine",en:e150d,e,High,"E150d (Caramel IV) - Contains 4-MEI, potential carcinogen"
+8690526070014,Eti Crax,Eti,"Wheat flour, vegetable oil, salt, artificial colors, preservatives","en:e102,en:e110",e,Very High,E102 (Tartrazine) - Hyperactivity in children|E110 (Sunset Yellow) - Behavioral disorders
+8690637008164,Knorr Tavuk Çorbası,Knorr,"Salt, starch, flavor enhancers, artificial flavors, preservatives",en:e621,d,High,"E621 (MSG) - Neurological effects, headaches"
+8690632007456,Ülker Bitter Çikolata,Ülker,"Cocoa mass, sugar, cocoa butter, emulsifiers, vanilla",en:e476,c,Low,E476 (Polyglycerol) - May cause digestive issues in large amounts
+8076809513524,Lay's Chips,Lay's,"Potatoes, vegetable oil, salt, artificial flavors, preservatives","en:e621,en:e330",e,High,E621 (MSG) - Neurological effects|E330 (Citric Acid) - Generally safe but synthetic
+8690504020011,Şeker Pınarı Su,Şeker Pınarı,Natural spring water,,a,Very Low,No harmful additives detected
+8690777000123,Ülker Biskrem,Ülker,"Wheat flour, sugar, vegetable oil, cocoa, artificial flavors","en:e322,en:e330",d,Medium,E322 (Lecithin) - Generally safe|E330 (Citric Acid) - Synthetic additive
+8697422350214,Torku Halley,Torku,"Sugar, wheat flour, cocoa, vegetable oil, preservatives, artificial colors","en:e102,en:e124",e,Very High,E102 (Tartrazine) - ADHD risk|E124 (Ponceau 4R) - Allergic reactions
+8690632105030,Ülker Chocolate Wafer,Ülker,"Wheat flour, sugar, vegetable fat, cocoa powder, emulsifiers","en:e471,en:e322",c,Low,E471 (Mono-diglycerides) - Generally safe|E322 (Lecithin) - Generally safe
